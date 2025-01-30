@@ -11,7 +11,7 @@ const Maps = () => {
 
   // Load the Google Maps API
   const { isLoaded, loadError } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyAUzt3NWP3XVHt7VCcuE1dostoX2ZDYEek", // Replace with your API key
+    googleMapsApiKey: "***********************", 
   });
 
   if (loadError) {
