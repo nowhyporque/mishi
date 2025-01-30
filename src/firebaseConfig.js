@@ -27,13 +27,13 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBR19RneJ6utY8KL50hxGNczE5xdewIr4s",
-    authDomain: "mishi-835f5.firebaseapp.com",
-    projectId: "mishi-835f5",
-    storageBucket: "mishi-835f5.firebasestorage.app",
-    messagingSenderId: "327990476344",
-    appId: "1:327990476344:web:ee08f4081bb7cc220230cd",
-    measurementId: "G-T15LFW7LWN"
+    apiKey: "**********************",
+    authDomain: "******************",
+    projectId: "***********",
+    storageBucket: "**************",
+    messagingSenderId: "************",
+    appId: "************",
+    measurementId: "********"
   };
 
 
