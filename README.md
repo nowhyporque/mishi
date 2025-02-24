@@ -3,3 +3,5 @@ Mishi is a full-stack web application built with React, Firebase (Firestore, Aut
 Key features include Google OAuth authentication, secure Firestore rules, real-time announcements, and account management. Upcoming improvements include a blog section, enhanced map functionality, real-time notifications, and analytics tracking.
 
 Tech Stack: React.js, Firebase Firestore, Firebase Authentication, Google Maps API.
+
+This project is not yet done. It is under development.
