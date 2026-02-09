@@ -45,7 +45,7 @@ const [activeTab, setActiveTab] = useState(tabParam || 'cats');
   const auth = getAuth();
 
   const { isLoaded, loadError } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyBgOXbiX4s77HCCTMhkikm4lwS-CLMrJkM",
+    googleMapsApiKey: "***************",
   });
 
   useEffect(() => {
